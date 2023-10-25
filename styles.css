@@ -14,8 +14,8 @@ html, body {
 }
 
 .grid {
-  height: 600px;
-  width: 600px;
+  height: 400px;
+  width: 400px;
   display: flex;
   flex-wrap: wrap;
   /* background-color: rgba(128, 128, 128, 0.137); */
@@ -24,8 +24,8 @@ html, body {
 }
 
 .grid div {
-  height: 60px;
-  width: 60px;
+  height: 40px;
+  width: 40px;
   font-size: x-large;
   font-weight: bold;
   /* color: brown; */
