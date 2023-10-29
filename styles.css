@@ -179,9 +179,9 @@ table {
   display: none;
 }
 */
-/*#indices_haut {
-  margin-left: 30px;
-}*/
+#indices_haut {
+  margin-left: 0px;
+}
 
 #table_test {
   color:#fff9db;
@@ -190,4 +190,5 @@ table {
 
 #upper {
   display: flex;
+  width: 500px;
 }
